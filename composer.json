@@ -1,0 +1,18 @@
+{
+    "name": "uej/ezcms",
+    "description": "ezcms is a simple php framework",
+    "keywords": ["cms", "framework", "ezphp", "simple framework"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {"name": "lxj", "email": "my2233@foxmail.com"}
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "ezcms\\": "/ez"
+        }
+    }
+}
