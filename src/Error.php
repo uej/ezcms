@@ -1,5 +1,5 @@
 <?php
-namespace ez;
+namespace ezcms;
 
 /**
  * 框架错误异常显示类

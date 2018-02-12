@@ -1,5 +1,5 @@
 <?php
-namespace ez;
+namespace ezcms;
 
 /**
  * 表单生成类

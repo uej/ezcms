@@ -1,5 +1,5 @@
 <?php
-namespace ez;
+namespace ezcms;
 
 /**
  * 框架初始化类

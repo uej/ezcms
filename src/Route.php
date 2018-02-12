@@ -1,5 +1,5 @@
 <?php
-namespace ez;
+namespace ezcms;
 
 /**
  * 框架默认路由

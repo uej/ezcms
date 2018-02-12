@@ -1,5 +1,5 @@
 <?php
-namespace ez;
+namespace ezcms;
 
 use PDO;
 use Exception;
