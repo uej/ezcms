@@ -1,19 +1,19 @@
 {
     "name": "uej/ezcms",
+    "type": "framework",
     "description": "ezcms is a simple php framework",
     "keywords": ["cms", "framework", "ezphp", "simple framework"],
-    "type": "library",
     "license": "MIT",
     "authors": [
         {"name": "lxj", "email": "my2233@foxmail.com"}
     ],
     "require": {
-        "php": ">=5.4"
-    },
+		"php": ">=5.4",
+		"ext-pdo": "*"
+	},
     "autoload": {
-		"files": ["ez/ez.php"],
-        "psr-4": {
-            "ezcms\\": "ez/"
-        }
-    }
+		"psr-4": {
+			"Medoo\\": "/src"
+		}
+	}
 }
