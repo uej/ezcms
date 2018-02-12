@@ -1,5 +1,5 @@
 <?php
-namespace ez\core;
+namespace ez;
 
 /**
  * 网络相关工具类

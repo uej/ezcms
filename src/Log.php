@@ -1,5 +1,5 @@
 <?php
-namespace ez\core;
+namespace ez;
 
 /**
  * 日志类
