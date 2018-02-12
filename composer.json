@@ -1,5 +1,5 @@
 {
-    "name": "uej/ezcms",
+    "name": "uej/medoo",
     "type": "framework",
     "description": "ezcms is a simple php framework",
     "keywords": ["cms", "framework", "ezphp", "simple framework"],
