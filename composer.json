@@ -11,7 +11,7 @@
         "php": ">=5.4"
     },
     "autoload": {
-		"file": ["ez/ez.php"],
+		"files": ["ez/ez.php"],
         "psr-4": {
             "ezcms\\": "ez/"
         }
