@@ -1,0 +1,68 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "ebe6194c8f4a4745c85c1cc0286d4ab3",
+    "packages": [
+        {
+            "name": "uej/ezphp",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/uej/ezphp.git",
+                "reference": "b9ea366fe8ffbe837c7f30067cd64159b4333067"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/uej/ezphp/zipball/b9ea366fe8ffbe837c7f30067cd64159b4333067",
+                "reference": "b9ea366fe8ffbe837c7f30067cd64159b4333067",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://dl.laravel-china.org/%package%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "require": {
+                "php": ">=5.4"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "ez\\": "ez/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "lxj",
+                    "email": "my2233@foxmail.com"
+                }
+            ],
+            "description": "Ezphp is a simple php framework",
+            "keywords": [
+                "ez",
+                "ezphp",
+                "framework",
+                "simple framework"
+            ],
+            "time": "2018-02-12T11:12:39+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "uej/ezphp": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

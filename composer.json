@@ -1,19 +1,11 @@
 {
-    "name": "uej/medoo",
-    "type": "framework",
-    "description": "ezcms is a simple php framework",
-    "keywords": ["cms", "framework", "ezphp", "simple framework"],
-    "license": "MIT",
-    "authors": [
-        {"name": "lxj", "email": "my2233@foxmail.com"}
-    ],
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.laravel-china.org"
+        }
+    },
     "require": {
-		"php": ">=5.4",
-		"ext-pdo": "*"
-	},
-    "autoload": {
-		"psr-4": {
-			"Medoo\\": "/src"
-		}
-	}
+        "uej/ezphp": "dev-master"
+    }
 }
